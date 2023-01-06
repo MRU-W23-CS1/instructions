@@ -1,5 +1,6 @@
 # COMP 1501 Instructions Repo
-Instructions for assignments and lab exercises will be published in this repository.
+- [Lab Exercises](labs)
+- [Assignments](assignments)
 
 :beetle: :bug: :ant: Find a bug in the instructions? You can [submit a bug report](https://github.com/MRU-W23-CS1/instructions/issues)! :ant: :bug: :beetle:
 
