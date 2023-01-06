@@ -1,6 +1,8 @@
 # COMP 1501 Instructions Repo
 Instructions for assignments and lab exercises will be published in this repository.
 
+:beetle: :bug: :ant: Find a bug in the instructions? You can [submit a bug report](https://github.com/MRU-W23-CS1/instructions/issues)! :ant: :bug: :beetle:
+
 ## Lab Exercise Submission Summary
 Labs are marked pass/fail based on passing a minimum threshold. They are automatically graded through GitHub, but manually updated in D2L each week.
 
