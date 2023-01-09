@@ -5,4 +5,4 @@ Each lab has a number of tests that must be passed to receive the 1% passing gra
 
 | Date             | Lab instructions | Starter Code | Required tests / total tests |
 | ---------------- | ---------------- | ------------ | ---------------------------- |
-| January 10, 2023 | TBD              | TBD          | 1/1                          |
+| January 10, 2023 | [Intro to Git](01-intro-to-git)              | [GitHub Classroom Link](https://classroom.github.com/a/Z4BMnpjy)          | 1/1                          |
