@@ -19,6 +19,17 @@ The goals of this lab are to learn how to:
 ## Setup
 On a lab computer, or on a personal computer where you've **already installed Git and VS Code**, launch [VS Code](https://code.visualstudio.com/).
 
+Click on the "Terminal" menu at the top, then select "New Terminal". This will pop up a new pane at the bottom of the screen. Click on it to activate the cursor.
+
+In the terminal, type in the following commands **one at a time**, pressing enter after each one. Replacing `"My Name"` and `"myname@mtroyal.ca"` with your name and email address, keeping the quotes. This only needs to be done once on the lab computers or once on your home computer.
+
+```bash
+git config --global user.name "My Name"
+git config --global user.email "myname@mtroyal.ca"
+```
+
+If there is no error message after pressing enter, this was done correctly.
+
 ## Part 1: Clone the starter code for lab 01
 1. In a web browser, [log in](https://github.com/login) to your GitHub account. If you haven't created one yet, do so now.
 2.  Click on the [Github Classroom link](https://classroom.github.com/a/Z4BMnpjy) to link your GitHub account to your actual name and create a copy of the starter "code" for this exercise. Select your name from the roster to link your MRU username to your GitHub account. This is not set in stone, please let your instructor know if you have a different preferred name.
