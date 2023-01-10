@@ -1,5 +1,6 @@
 # COMP 1501 Instructions Repo
 - [Lab Exercises](labs)
+- [Tutorials](tutorials)
 - [Assignments](assignments)
 
 :beetle: :bug: :ant: Find a bug in the instructions? You can [submit a bug report](https://github.com/MRU-W23-CS1/instructions/issues)! :ant: :bug: :beetle:
@@ -51,7 +52,7 @@ Words in `<brackets>` are just placeholders - do not type the `<>`.
     > There may be slight variations in how your instructor named your assignment repo
 
 ## Troubleshooting
-For more details, you can also refer back to the [lab 1](labs/01-intro-to-git.md) instructions.
+For more details, you can also refer back to the [lab 01](labs/01-intro-to-git) instructions.
 
 ### Changes aren't showing on GitHub.com
 Make sure that you have done all of the following:
