@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="513.19012"
+   height="372.88449"
+   viewBox="0 0 513.19013 372.8845"
+   enable-background="new 0 0 474.59 298.361"
+   xml:space="preserve"
+   sodipodi:docname="Maze_simple.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs55" /><sodipodi:namedview
+   id="namedview53"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="true"
+   inkscape:zoom="2.4268386"
+   inkscape:cx="255.06435"
+   inkscape:cy="159.87878"
+   inkscape:window-width="3840"
+   inkscape:window-height="2078"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<rect
+   style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.84728;stroke-linecap:round;stroke-linejoin:round"
+   id="rect374"
+   width="513.19012"
+   height="372.88449"
+   x="0"
+   y="0" /><polyline
+   fill="none"
+   stroke="#333333"
+   stroke-width="10"
+   points="25.41,40.983 25.41,258.197 414.754,258.197 "
+   id="polyline2"
+   transform="translate(16.648074,18.383934)" />
+<line
+   fill="none"
+   stroke="#333333"
+   stroke-width="10"
+   x1="42.058075"
+   y1="192.97392"
+   x2="86.320068"
+   y2="192.97392"
+   id="line4" />
+<line
+   fill="none"
+   stroke="#333333"
+   stroke-width="10"
+   x1="211.73007"
+   y1="230.67892"
+   x2="211.73007"
+   y2="276.58093"
+   id="line6" />
+<polyline
+   fill="none"
+   stroke="#333333"
+   stroke-width="10"
+   points="62.295,40.983 452.459,40.983 452.459,258.197 "
+   id="polyline8"
+   transform="translate(16.648074,18.383934)" />
+<line
+   fill="none"
+   stroke="#333333"
+   stroke-width="10"
+   x1="297.79507"
+   y1="59.366936"
+   x2="297.79507"
+   y2="105.26894"
+   id="line10" />
+<polyline
+   fill="none"
+   stroke="#333333"
+   stroke-width="10"
+   points="112.295,86.885 69.672,86.885 69.672,130.328 195.082,130.328   195.082,171.311 153.279,171.311 153.279,212.295 69.672,212.295 "
+   id="polyline12"
+   transform="translate(16.648074,18.383934)" />
+<line
+   fill="none"
+   stroke="#333333"
+   stroke-width="10"
+   x1="125.66508"
+   y1="148.71194"
+   x2="125.66508"
+   y2="192.97392"
+   id="line14" />
+<line
+   fill="none"
+   stroke="#333333"
+   stroke-width="10"
+   x1="170.74707"
+   y1="59.366936"
+   x2="170.74707"
+   y2="148.71194"
+   id="line16" />
+<polyline
+   fill="none"
+   stroke="#333333"
+   stroke-width="10"
+   points="409.836,174.59 409.836,130.328 452.459,130.328 "
+   id="polyline18"
+   transform="translate(16.648074,18.383934)" />
+<line
+   fill="none"
+   stroke="#333333"
+   stroke-width="10"
+   x1="383.04208"
+   y1="235.59692"
+   x2="469.10709"
+   y2="235.59692"
+   id="line20" />
+<polyline
+   fill="none"
+   stroke="#333333"
+   stroke-width="10"
+   points="195.082,86.885 239.344,86.885 239.344,130.328 281.147,130.328   281.147,174.59 366.394,174.59 366.394,86.885 324.59,86.885 323.771,130.328 "
+   id="polyline22"
+   transform="translate(16.648074,18.383934)" />
+<line
+   fill="none"
+   stroke="#333333"
+   stroke-width="10"
+   x1="431.40207"
+   y1="105.26894"
+   x2="383.04208"
+   y2="105.26894"
+   id="line24" />
+<polyline
+   fill="none"
+   stroke="#333333"
+   stroke-width="10"
+   points="239.344,174.59 239.344,212.295 324.59,212.295 324.59,174.59 "
+   id="polyline26"
+   transform="translate(16.648074,18.383934)" />
+<line
+   fill="none"
+   stroke="#333333"
+   stroke-width="10"
+   x1="298.61508"
+   y1="230.67892"
+   x2="298.61508"
+   y2="276.58093"
+   id="line28" />
+<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="46.540001"
+   y1="55.970699"
+   x2="46.540001"
+   y2="9.2495003"
+   gradientTransform="translate(16.648074,-3.616066)">
+	<stop
+   offset="0.5031"
+   style="stop-color:#FF0000"
+   id="stop30" />
+	<stop
+   offset="0.6056"
+   style="stop-color:#F20004;stop-opacity:0.7937"
+   id="stop32" />
+	<stop
+   offset="0.7972"
+   style="stop-color:#CE000F;stop-opacity:0.4081"
+   id="stop34" />
+	<stop
+   offset="1"
+   style="stop-color:#A2001C;stop-opacity:0"
+   id="stop36" />
+</linearGradient>
+<path
+   fill="url(#SVGID_1_)"
+   d="m 68.188074,32.173934 v -22.442 h -10 v 22.442 l -6.887,-2.491 c 4.758,5.459 9.253,14.268 11.887,21.367 2.633,-7.1 7.129,-15.908 11.887,-21.367 z"
+   id="path39"
+   style="fill:url(#SVGID_1_)" />
+<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="431.14749"
+   y1="285.66849"
+   x2="431.14749"
+   y2="238.9462"
+   gradientTransform="translate(16.648074,26.383934)">
+	<stop
+   offset="0.5031"
+   style="stop-color:#0AB000"
+   id="stop41" />
+	<stop
+   offset="0.6758"
+   style="stop-color:#17B508;stop-opacity:0.6523"
+   id="stop43" />
+	<stop
+   offset="0.9979"
+   style="stop-color:#3BC41C;stop-opacity:0.0043"
+   id="stop45" />
+	<stop
+   offset="1"
+   style="stop-color:#3BC41C;stop-opacity:0"
+   id="stop47" />
+</linearGradient>
+<path
+   fill="url(#SVGID_2_)"
+   d="m 452.79508,291.86993 v -22.441 h -10 v 22.441 l -6.888,-2.49 c 4.759,5.459 9.254,14.268 11.888,21.367 2.633,-7.1 7.129,-15.908 11.888,-21.367 z"
+   id="path50"
+   style="fill:url(#SVGID_2_)" />
+<text
+   xml:space="preserve"
+   style="font-size:10.5751px;line-height:normal;font-family:monospace;-inkscape-font-specification:'monospace, Normal';text-decoration-color:#000000;fill:#000000;stroke-width:0.793135;-inkscape-stroke:none;stop-color:#000000"
+   x="22.719013"
+   y="344.13535"
+   id="text2242"><tspan
+     sodipodi:role="line"
+     id="tspan2240"
+     x="22.719013"
+     y="344.13535"
+     style="font-size:10.5751px;stroke-width:0.793135">Image credit: https://commons.wikimedia.org/wiki/File:Maze_simple.svg</tspan></text></svg>
