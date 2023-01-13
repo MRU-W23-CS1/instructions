@@ -26,7 +26,7 @@
 
 ## Instructions
 1. Complete this assignment **individually or on groups of two**. Do **not** work together with more than one other classmate; that is unethical, counter to our university's and course's academic integrity policies, and deprives you and they of a learning opportunity. If you do work with another, **both students must independently submit their own copy of the work**, and **both names must be on the files**.
-1. Respond to all of the following questions in writing.
+1. Respond to all of the following questions in the `assign1.md` file in your starter code.
 1. To submit, every student must provide their own set of answers to the questions. If you worked in a pair, **both of you** should submit a copy of the work and include **both partners' names**.
 
 
@@ -52,6 +52,16 @@ display answer
 ```
 
 1. Trace it, assuming the user provides the numbers 6, 4, 9, 12, in that order. Express the state of all variables at each step and the final answer displayed to the user.
+   > **Tracing** is where you pretend to be the computer and write down the value of the variables at each step of the algorithm. For example, you might write the first two variables as:
+   ```
+   numberA = 6
+   numberB = 4
+   ```
+   > You could also write this as a table, though it requires some Markdown [formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables). You will not be assessed on your formatting or Markdown syntax, so however you choose to express the intermediate values is fine as long as it's clear.
+   
+   | numberA | numberB |
+   | ------- | ------- |
+   | 6       | 4       |
 
 2. In a single concise sentence, describe what this algorithm is calculating. **Do not describe** the steps that the algorithm takes, but the meaning of the final answer.
 
