@@ -20,7 +20,7 @@
   - Identifying, refining, ordering and arranging hierarchially a problem's algorithm into steps and sub-steps.
   - Clearly communicating the algorithm.
 - Gain experience interpreting and communicating an algorithm's purpose.
-- 
+
 ## Outcome
 - Successful submission (by the due date/time) of a text file, that correctly and completely expressing algorithms for all of the questions. 
 
@@ -51,7 +51,7 @@ answer = numberB * iteration
 display answer
 ```
 
-1. Trace it, assuming the user provides the numbers 6, 4, 9, 12, in that order. Express the state of all variables at each step and the final answer displayed to the user.
+1. Trace the algorithm **twice**, assuming the user first provides the numbers `6, 4` and then `9, 12`, in that order. Express the state of all variables at each step and the final answer displayed to the user.
    > **Tracing** is where you pretend to be the computer and write down the value of the variables at each step of the algorithm. For example, you might write the first two variables as:
    ```
    numberA = 6
