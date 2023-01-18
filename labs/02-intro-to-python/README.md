@@ -58,6 +58,11 @@ To run the tests through VS code, click on the "Testing" icon ![testing](02-test
 
 > If you run tests and see "Pytest Discovery Error", this means you need to install the pytest package. Open up a terminal and type the command `pip install pytest`, or on a mac, `pip3 install pytest`, then try running tests again. You may need to click the "Refresh Tests" button, to the left of "Run Tests".
 
+> On the lab computers, use the following command:
+    ```
+    py -m pip install pytest
+    ```
+
 
 ## Software Installation
 1. Download and install [VS Code](https://code.visualstudio.com/) for your platform (macOS/Windows).
