@@ -8,6 +8,6 @@ Assignments are to be completed individually or in groups of 2. If you choose to
 | Assignment                    | Starter Code                                                     | Due date         |
 | ----------------------------- | ---------------------------------------------------------------- | ---------------- |
 | [Assignment 1](01-algorithms) | [GitHub Classroom Link](https://classroom.github.com/a/nozENsU3) | January 22, 2023 |
-| Assignment 2                  | TBD                                                              | February 5, 2023 |
+| [Assignment 2](02-ipo)        | [GitHub Classroom Link](https://classroom.github.com/a/Q3Hdjb1t) | February 5, 2023 |
 | Assignment 3                  | TBD                                                              | March 5, 2023    |
 | Assignment 4                  | TBD                                                              | April 4, 2023    |
