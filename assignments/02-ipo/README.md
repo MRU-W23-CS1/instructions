@@ -134,7 +134,7 @@ If you choose to work in partners, include **both names** on your text file. Eac
 ## Marking Scheme
 A handful of tests are provided for you to check that you are on the right track. However, passing these tests is not sufficient to ensure full marks!
 
-Tracing (each part out of 4 = 16):
+Manual Calculations (each part out of 4 = 16):
 - [ ] Clear flow so that steps are easy to follow.
 - [ ] Both Gaussians are correct.
 - [ ] Appropriate choice of test values (e.g. non-zero precipitation).
