@@ -38,7 +38,7 @@ Another example:
 
 <pre>
 Enter the number of gems: <b>3</b>
-Enter the number of players: <b>3</b>
+Enter the number of players: <b>4</b>
 
 Gems:             3
 Players:          4
@@ -46,7 +46,7 @@ Gems per player:  0
 Gems left over:   3
 </pre>
 
-> Note: to pass the formatting test, your output must be displayed *exactly* as shown. f-strings allow you to display text and numbers with a minimum character width - in this case, 2 spaces for the numbers column and 17 for the text column.
+> Note: to pass the formatting test, your output must be displayed *exactly* as shown. f-strings allow you to display text and numbers with a minimum character width - in this case, 2 spaces for the numbers column and 17 for the text column. You can assume the number of gems will be either 1 or 2 digits.
 
 ## Running tests
 This lab has 3 tests: one for the number of gems per player, one for the gems left over, and one for formatting. **You only need to pass 2 of the 3 tests** to pass the lab. However, GitHub only shows you a green check mark when *all* of the tests are passed. The extra test is provided for an extra challenge.
