@@ -47,10 +47,10 @@ where $A$ is the amplitude of the storm in mm/hr, $x_0$ and $y_0$ are the positi
 
 For the two overlapping storms, the parameters are fixed as follows:
 
-| Storm   | $A$     | $x_0, y_0$ | $\sigma$ |
-| ------- | ------- | ---------- | -------- |
-| 3 mm/hr | 0 km    | 0 km       | 2.2 km   |
-| 2 mm/hr | -4.8 km | -3.6 km    | 2.2 km   |
+| Storm | $A$     | $x_0, y_0$        | $\sigma$ |
+| ----- | ------- | ----------------- | -------- |
+| 1     | 3 mm/hr | $(0, 0)$ km       | 2.2 km   |
+| 2     | 2 mm/hr | $(-4.8, -3.6)$ km | 2.2 km   |
 
 Where the storms overlap, the accumulated rainfall sums together, producing the following pattern of combined rainfall intensity:
 
