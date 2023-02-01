@@ -11,7 +11,7 @@ The goals of this lab are to learn about:
 ## Part 1: Tracing and debugging
 You and a friend are developing a recipe app where the user enters ingredients and quantities in grams. Your friend started writing the code, but there's a mysterious bug that they've asked you to fix.
 
-1. Open the file `recipe.py` and inspect the function header `add_ingredient`. What data types are should be passed as arguments? What type should be returned?
+1. Open the file `ingredients.py` and inspect the function header `add_ingredient`. What data types are should be passed as arguments? What type should be returned?
 2. Trace the code **manually**. What data type is actually returned?
 3. Run the code. Did it produce what you expected?
 4. **Without modifying the `main` function**, fix the code so that it still prints the output, but doesn't print `None` anymore.
