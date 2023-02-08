@@ -77,3 +77,5 @@ Calculating distance travelled is a necessary part of the game implementation, b
 
 ## Testing
 There are only 2 tests in this lab, one for part 1 and one for part 2. Both must be passed to get credit.
+
+Note: the tests will give you a "Test Discovery Error" when syntax errors are present in the lab05.py file, so you need to fix those before you can run the tests.
