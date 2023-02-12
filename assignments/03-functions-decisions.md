@@ -107,7 +107,7 @@ Source code (each part out of 4 = 44):
 - [ ] Effective and appropriate additional function
 - [ ] Translation of **any English phrase** matches website behaviour
 - [ ] Good `translate` selection structure
-- [ ] Good `volume` selection structure
+- [ ] Good `normalize_volume` selection structure
 - [ ] Input prompts are as specified (order, `y/n`, etc)
 - [ ] `main` function calls other functions and passes values as required
 
