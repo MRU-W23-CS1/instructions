@@ -1,5 +1,7 @@
 # Debugging & Testing
 
+ [GitHub Classroom Link](https://classroom.github.com/a/xElnPaZs)
+
 ## Introduction
 Imagine your company is developing a turn-based tank battle game (like the classic [Scorched Earth](https://en.wikipedia.org/wiki/Scorched_Earth_(video_game)) game). Players take turns selecting a **launch angle** and **velocity** to launch a projectile at the other player, and the first to hit their opponent wins.
 
@@ -7,7 +9,8 @@ Unfortunately, your coworker has just won the lottery and quit, leaving you with
 
 Projectile kinematics says that for a projectile launched on a flat surface, the flight-time (time in the air, until the projectile lands) satisfies the quadratic equation:
 
-$$ \frac{1}{2} gt^2 + v\sin(\theta) \times t = 0 $$
+$$\frac{1}{2} gt^2 + v\sin(\theta) \times t = 0$$
+
 where:
 - $t$ is the flight time in seconds
 - $\theta$ is the angle of launch
@@ -16,11 +19,11 @@ where:
 
 Given velocity $v$ and angle $\theta$, this equation can be solved for $t$ as follows:
 
-$$ t = \frac{v \sin(\theta)}{\frac{1}{2} g}$$
+$$t = \frac{v \sin(\theta)}{\frac{1}{2} g}$$
 
 Once you have a value for $t$, you can find the horizontal distance travelled by:
 
-$$ x = v \cos(\theta) \times t $$
+$$x = v \cos(\theta) \times t$$
 
 where:
 - $x$ is the horizontal distance travelled
@@ -74,3 +77,5 @@ Calculating distance travelled is a necessary part of the game implementation, b
 
 ## Testing
 There are only 2 tests in this lab, one for part 1 and one for part 2. Both must be passed to get credit.
+
+Note: the tests will give you a "Test Discovery Error" when syntax errors are present in the lab05.py file, so you need to fix those before you can run the tests.
