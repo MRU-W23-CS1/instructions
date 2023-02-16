@@ -15,11 +15,11 @@ Meal delivery service BypassTheCleaning has hired you to write their app. They o
 
 1. Using the template provided in `lab06part2.py`, **design** a program that prompts the user for the dollar amount of their current order, then prints out a message according to the following table:
 
-    | Amount                   | Message                                         |
-    | ------------------------ | ----------------------------------------------- |
-    | amount $\lt 0$           | `Invalid entry, orders must be positive`        |
-    | $0 \leq$ amount $\lt 40$ | `Add $xx.xx to your order to get free delivery` |
-    | $40 \leq$ amount         | `You get free delivery!`                        |
+    | Amount                   | Message                                                 |
+    | ------------------------ | ------------------------------------------------------- |
+    | amount $\lt 0$           | `Invalid entry, orders must be positive`                |
+    | $0 \leq$ amount $\lt 40$ | `Add $xx.xx to your order to qualify for free delivery` |
+    | $40 \leq$ amount         | `You get free delivery!`                                |
     
     You can assume the user input data type is always correct (e.g. a number will be entered when it is expected by the program). You may add additional functions, but 
 
@@ -45,6 +45,6 @@ In Part 2, you wrote a program to check if a user gets free delivery based on th
 | $20 \leq$ distance         | `Sorry, you are not eligible for free delivery` |
 
 ## Testing
-Try to test your code first **before** running the automated tests - these should just confirm what you already know, not be used as a tool to exclusively check your work.
+Try to test your code first **before** running the automated tests - these should just confirm what you already know, not be used as a tool to exclusively check your work. Note that the tests are looking for the exact messages as described above (they're not very smart).
 
 This lab has 5 tests. You only need to pass 3 of them to get credit for the lab, but the rest might be good practice for the midterm.
