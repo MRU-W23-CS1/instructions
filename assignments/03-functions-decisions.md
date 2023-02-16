@@ -25,6 +25,8 @@ The device is pretty complex, but to begin with, you decide to create a program 
 2. Keeping the username constant, choose various phrases to translate and modify the switches A and B and the volume control, pressing the "Translate!" button for each combination. Document your experiments until you have established the behaviour. 
 3. Using the provided starter code, write a Python program that duplicates the behaviour of the translator. **Do not** prompt the user for their MRU username. When executed, your program should look something like this, where text in **bold** represents user input. Note that your exact output **will be different** depending on your username.
 
+> Hint: You will need to use a **string method** to replace characters in a string. 
+
 <pre>
 Enter the phrase to translate: <b>Hello, world!</b>
 Is switch A on? (y/n): <b>n</b>
