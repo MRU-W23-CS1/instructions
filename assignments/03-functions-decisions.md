@@ -40,6 +40,21 @@ Hello, world!
 
 > Tip: Emojis are **unicode characters** that display differently on different platforms. The easiest way to make sure yours matches the website is to just copy and paste from the website to your code.
 
+Hmm, it looks like the text didn't actually change! I'll try again with a different phrase:
+
+<pre>
+Enter the phrase to translate: <b>Hello, crazy world!</b>
+Is switch A on? (y/n): <b>n</b>
+Is switch B on? (y/n): <b>y</b>
+Enter the volume: <b>5</b>
+Result:
+🦫🦫🦫🦫🦫
+Hello, cr@zy world!
+🦫🦫🦫🦫🦫
+</pre>
+
+> Hint: think about the phrases that might provide all the information about the behaviour of the translator.
+
 ## Assumptions
 To make things manageable, you can assume the following:
 1. Only upper case (A-Z) or lower case (a-z) English characters may be modified by the translator (i.e. numbers, punctuation, and non-English characters will pass through unmodified).
