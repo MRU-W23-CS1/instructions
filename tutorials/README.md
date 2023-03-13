@@ -10,3 +10,4 @@ Tutorial instructions will be posted here. In general, the difference between tu
 | February 7, 2023  | [Booleans](05-booleans.md)                          |
 | February 14, 2023 | [Decisions](06-decisions.md)                        |
 | March 1, 2023     | [Loop design](07-loop-design.md)                    |
+| March 14, 2023    | [Indexing and Lists](08-indexing_lists.md)          |
