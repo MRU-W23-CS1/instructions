@@ -88,13 +88,14 @@ $$
 
 or, with the truth-tellers in the middle:
 
-
 $$
-\begin{array}{|c|c|c|c|} \hline
-L & L & L & L \\\\ \hline
-T & T & T & T \\\\ \hline
-T & T & T & T \\\\ \hline
-L & L & L & L \\\\ \hline
+\begin{array}{|c|c|c|c|c|c|} \hline
+L & L & L & L & L & L \\\\ \hline
+L & L & L & L & L & L \\\\ \hline
+T & T & T & T & T & T\\\\ \hline
+T & T & T & T & T & T\\\\ \hline
+L & L & L & L & L & L\\\\ \hline
+L & L & L & L & L & L\\\\ \hline
 \end{array}
 $$
 
@@ -102,10 +103,10 @@ or rotated 90 degrees:
 
 $$
 \begin{array}{|c|c|c|c|} \hline
-L & T & T & L \\\\ \hline
-L & T & T & L \\\\ \hline
-L & T & T & L \\\\ \hline
-L & T & T & L \\\\ \hline
+T & L & L & T\\\\ \hline
+T & L & L & T\\\\ \hline
+T & L & L & T \\\\ \hline
+T & L & L & T \\\\ \hline
 \end{array}
 $$
 
