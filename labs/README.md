@@ -12,5 +12,5 @@ Each lab has a number of tests that must be passed to receive the 1% passing gra
 | February 8, 2023  | [Debugging and Testing](05-debugging)      | [GitHub Classroom Link](https://classroom.github.com/a/xElnPaZs) | 2/2                          |
 | February 15, 2023 | [Decisions](06-decisions.md)               | [GitHub Classroom Link](https://classroom.github.com/a/90-vlORo) | 3/5                          |
 | March 7, 2023     | [While Loops](07-loops.md)                 | [GitHub Classroom Link](https://classroom.github.com/a/35L98xVx) | 3/4                          |
-| March 15, 2023    | [Indexing and Lists](08-indexing_lists.md) | [GitHub Classroom Link](https://classroom.github.com/a/vJTRbH2U) |
-|                   |
+| March 15, 2023    | [Indexing and Lists](08-indexing_lists.md) | [GitHub Classroom Link](https://classroom.github.com/a/vJTRbH2U) | 1/2                          |
+| March 22, 2023    | [File I/O](09-file_io.md)                  | [GitHub Classroom Link](https://classroom.github.com/a/Vm_z4PfH) | 3/5                          |
