@@ -54,11 +54,11 @@ $$
 
 Each person in the grid can "see" the person orthogonally adjacent to them, i.e. to the left, right, above, and below. Knowing this, the truth-teller in the top left corner could say "I see 2 liars", while the liar in the top middle might say "I see 2 truth-tellers".
 
-The problem posed in MATH 1505 is to find all of the $n \times n$ grids of people such that each person can say "I see exactly one liar"[1^]. Instead, for this assignment, your problem flips the question on its head: Given an $n \times n$ grid of liars and truth-tellers, can each person say "I see exactly one liar"?
+The problem posed in MATH 1505 is to find all of the $n \times n$ grids of people such that each person can say "I see exactly one liar"[^1]. Instead, for this assignment, your problem flips the question on its head: Given an $n \times n$ grid of liars and truth-tellers, can each person say "I see exactly one liar"?
 
 There are three possible categories of solutions to this problem: **trivial solutions**, **line solutions**, and **irregular solutions**. Everything else is not a solution.
 
-[1^]: As it turns out, this is a pretty tricky problem - I tried writing a brute-force script to find them all, and had to give up after $n=6$ when my code took over a week to run.
+[^1]: As it turns out, this is a pretty tricky problem - I tried writing a brute-force script to find them all, and had to give up after $n=6$ when my code took over a week to run.
 
 ### Examples
 The following are **non-comprehensive** examples of the various categories of solutions.
