@@ -7,9 +7,9 @@ def read_CPI_file(filename: str) -> list:
     """
     cpi_list = []
     try:
-        f_obj = open(filename, "r")
+        f_obj = open(filename, "r", encoding="UTF-8")
         # skip over the first 25 lines
-        for line in range(25):
+        for _ in range(25):
             f_obj.readline()
         
         # then read the header (but don't do anything with it right now)
@@ -17,7 +17,7 @@ def read_CPI_file(filename: str) -> list:
 
         line = f_obj.readline() # the priming read
         # read the rest of the file until the "REVISIONS" line
-        while "REVISIONS" not in line:
+        while "REVISIONS" not in line and line.strip() != "":
             line = line.strip().replace('"', "")
             if len(line) > 0:
                 cpi_list.append(line)
