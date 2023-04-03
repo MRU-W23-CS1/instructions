@@ -11,3 +11,6 @@ Assignments are to be completed individually or in groups of 2. If you choose to
 | [Assignment 2](02-ipo)                    | [GitHub Classroom Link](https://classroom.github.com/a/Q3Hdjb1t) | February 5, 2023 |
 | [Assignment 3](03-functions-decisions.md) | [GitHub Classroom Link](https://classroom.github.com/a/qyDkb1T3) | March 5, 2023    |
 | [Assignment 4](04-comprehensive.md)       | [GitHub Classroom Link](https://classroom.github.com/a/HfDY8xxK) | April 2, 2023    |
+
+## Late days
+Your late bank days may be used at your discretion. However, assignments will not be accepted after the last day of classes (April 5th) - this means a **maximum of 3 late days** may be used for the last assignment. **If you wish to use your late bank, include a note in the D2L submission box**.

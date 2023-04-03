@@ -1,5 +1,5 @@
 # Assignment 4: Comprehensive Program
-- Due April 2, 2023 by 11:59 pm
+- Due April 2, 2023 by 11:59 pm. If you have late days left, a **maximum of 3** may be used as the last day of classes (April 5th) is a hard deadline.
 - [GitHub Classroom Link](https://classroom.github.com/a/HfDY8xxK)
 - Weight: 10%
 
@@ -21,6 +21,7 @@
   - [`data` folder:](#data-folder)
 - [Research efforts](#research-efforts)
 - [Marking Scheme](#marking-scheme)
+- [Late days](#late-days)
 
 
 ## Objectives
@@ -281,3 +282,6 @@ Furthermore, you must at least attempt the classification portion of the assignm
 4/4 is correct/complete.
 
 Remember: Your code **must not** use use any Python techniques that have not yet been covered in class. Use of more advanced techniques will result in a penalty and a discussion with me to explain your decisions.
+
+## Late days
+If you have late days left, a **maximum of 3** may be used as the last day of classes (April 5th) is a hard deadline. Assignments will not be accepted after April 5th!
