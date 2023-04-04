@@ -21,7 +21,7 @@ Meal delivery service BypassTheCleaning has hired you to write their app. They o
     | $0 \leq$ amount $\lt 40$ | `Add $xx.xx to your order to qualify for free delivery` |
     | $40 \leq$ amount         | `You get free delivery!`                                |
     
-    You can assume the user input data type is always correct (e.g. a number will be entered when it is expected by the program). You may add additional functions, but 
+    You can assume the user input data type is always correct (e.g. a number will be entered when it is expected by the program). You may add additional functions, but make sure that your `check_free_delivery` function header doesn't change and that it `print`s the appropriate message.
 
     The program should look like the following when run, where 25.30 is an examples of user input.
 
