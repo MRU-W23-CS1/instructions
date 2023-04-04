@@ -5,7 +5,7 @@
 Computers are really good at reading a bunch of data and summarizing it. For this lab, you'll be reading in a list of directions for a hike and calculating the total distance and the net distance ("as the crow flies"), then writing the results to a new file.
 
 Open up `lab09.py` and you'll see a few function definitions to complete. As usual, you may define additional functions as appropriate, but your main program entry point must be `main`. Write a program that:
-- Reads the text file `directions.txt` into a `list`
+- Reads the text file `directions.txt` into a `list` of strings, one per line
 - Calls `total_distance` to calculate the total distance of the hike
 - Calls `net_distance` to calculate the net distance of the hike
 - Writes the two distances to a file named `activity_log.txt`
@@ -32,7 +32,7 @@ where `xxxx` is a placeholder for the actual calculated numbers. If you choose n
 
 ### `total_distance` function
 This function should:
-- Take a list of directions as a parameter
+- Take a list of directions as a parameter (one string per line)
 - Calculate the sum of all the distances in the list, **ignoring heading**
 - `return` the total distance 
 
@@ -40,7 +40,7 @@ This function should:
 
 ### `net_distance` function:
 This one is considerably trickier! It should:
-- Take a list of directions as a parameter
+- Take a list of directions as a parameter (one string per line)
 - Add up all the distances along the North-South axis, and all the distances along the East-West axis
 - `return` the hypotenuse of the two distances
 
